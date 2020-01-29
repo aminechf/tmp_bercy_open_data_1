@@ -25,13 +25,15 @@ Chaque groupe a ensuite effacé les mots centraux et essayé de reconstituer le 
 </p>
 
 Cet exercice a permis de mettre en avant plusieurs sujets centraux autour de l'Open Data, identifiés par les deux groupes : 
+* **Culture** open data, **structuration** de la collecte et de la publication des données
+* **Transparence** et droit d'accès à l'information
+* **Valorisation des données ouvertes** : sujet le plus cité, correspond à la qualité et la granularité des données publiées, la documentation de celles-ci, leur mise à jour régulière, etc.
 
+Ces sujets reflètent une réelle volonté des participants d'explorer et de tirer de la valeur des données du ministère. Pour répondre à cette volonté, il importe d'identifier les jeux de données du ministère qui intéressent le plus les utilisateurs...
 
 
 ### Les Golden Data
-explain activity 2
-show results
-analyze and debate
+Pour répondre à cette question, une **cartographie représentative des données du ministère** (mais non exhaustive) a été présentée aux participants. Les participants ont ensuite travaillé en groupe pour désigner les jeux de données qu'ils considèrent comme étant des "*golden data*", chaque groupe ayant un nombre limité de votes à répartir sur les différents jeux de données. 
 
 ### Les typologies d'utilsateurs
 explain activity 3
