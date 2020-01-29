@@ -43,8 +43,8 @@ Pour répondre à cette question, une **cartographie représentative des donnée
 
 Cet exercice a permis d'aboutir aux constats suivants :
 * Certains jeux de données portent plus de valeur aux yeux des participants : les **données budget**, **les données DGFiP**, **les données sur les dépenses et les achats de l'Etat**, entre autres
-* ==La valorisation de ces jeux de données n'est cependant possible que dans la mesure où les éléments sur la qualité et l'utilisabilité des données, identifiés durant le premier exercice, sont respectés==
-* ==Seuls, plusieurs jeux de données sont difficilement exploitables et leur exploitation aurait peu d'impact. C'est la jointure de plusieurs jeux de données qui permettrait de valoriser réellement ces données. Ainsi, il est primordial de mettre en place des référentiels *(données pivots, conventions, documentation et metadata)* qui permettraient cette valorisation.==
+* <mark>La valorisation de ces jeux de données n'est cependant possible que dans la mesure où les éléments sur la qualité et l'utilisabilité des données, identifiés durant le premier exercice, sont respectés</mark>
+* <mark>Seuls, plusieurs jeux de données sont difficilement exploitables et leur exploitation aurait peu d'impact. C'est la jointure de plusieurs jeux de données qui permettrait de valoriser réellement ces données. Ainsi, il est primordial de mettre en place des référentiels *(données pivots, conventions, documentation et metadata)* qui permettraient cette valorisation.</mark>
 
 ### Les typologies d'utilsateurs
 explain activity 3
