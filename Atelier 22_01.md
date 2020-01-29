@@ -61,5 +61,6 @@ Cet exercice a permis d'aboutir aux constats suivants :
 * **Absence de toute événementialisation autour des jeux de données publiées. Cela rend l'accès à ces informations difficile, principalement pour les "citoyens curieux" ou des utilisateurs type data journalist. Evénementialiser un jeu de données publié ou à publier, à travers des articles "décryptage" par exemple, à destination du grand public, contribuerait significativement à une prise de conscience citoyenne sur le rôle de l'Open Data dans le renforcement des liens de transparence et de confiance Etat-Citoyens**
 * **Pour les power users, les formats de données souhaités ne seront pas intelligible auprès des autres catégories d'utilisateurs. Par ailleurs, si on souhaite que les power users valorisent les données publiées, il faut s'engager à respecter les critères de qualité cités précédemment. Fournir des données qui respectent ces éléments permettra aux power users de générer de la valeur grâce à des traitements avancés (Big Data, IA), mais aussi de construire des rapports informatifs à destination du grand public**
 ---
-### Points marquants
+### Autres points abordés
+* Pour les prochaines ateliers, élargir les invitations, notamment auprès de **startups** (civic-tech, ...) et de **chercheurs en économie**
 
