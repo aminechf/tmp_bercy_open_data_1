@@ -35,7 +35,7 @@ Ces sujets reflètent une réelle volonté des participants d'explorer et de tir
 
 
 ### Les Golden Data
-Pour répondre à cette question, une **cartographie représentative des données du ministère** (mais non exhaustive) a été présentée aux participants. Les participants ont ensuite travaillé en groupe pour désigner les jeux de données qu'ils considèrent comme étant des "*golden data*", chaque groupe ayant un nombre limité de votes à répartir sur les différents jeux de données. 
+==Pour répondre à cette question==, une **cartographie représentative des données du ministère** (mais non exhaustive) a été présentée aux participants. Les participants ont ensuite travaillé en groupe pour désigner les jeux de données qu'ils considèrent comme étant des "*golden data*", chaque groupe ayant un nombre limité de votes à répartir sur les différents jeux de données. 
 
 <p align="center">
   <img src="golden_data_2.jpg"/>
