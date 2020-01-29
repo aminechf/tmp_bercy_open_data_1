@@ -15,7 +15,7 @@ Les participants ont été séparés en deux groupes, et en quelques minutes de 
 Chaque groupe a ensuite effacé les mots centraux et essayé de reconstituer le graphe du groupe opposé à partir des mots restants. Hormis quelques différences, les deux groupes ont identifié les mêmes grandes thématiques autour de l'Open Data.
 
 <p align="center">
-  <img warm_up_2.jpg/>
+  <img src="warm_up_2.jpg"/>
 </p>
 ![warm up 1]()
 ![warm up 2](warm_up_2.jpg)
