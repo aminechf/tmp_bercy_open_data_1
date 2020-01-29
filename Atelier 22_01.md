@@ -50,7 +50,7 @@ Cet exercice a permis d'aboutir aux constats suivants :
 Quelles données pour quelle catégorie d'utilisateurs ? Sous quels formats ?
 
 <p align="center">
-  <img src="users.PNG"/>
+  <img src="users.PNG", style="height=70%;width=70%"/>
 </p>
 
 ---
