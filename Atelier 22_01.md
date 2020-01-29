@@ -47,11 +47,14 @@ Cet exercice a permis d'aboutir aux constats suivants :
 * **Seuls, plusieurs jeux de données sont difficilement exploitables et leur exploitation aurait peu d'impact. C'est la jointure de plusieurs jeux de données qui permettrait de valoriser réellement ces données. Ainsi, il est primordial de mettre en place des référentiels *(données pivots, conventions, documentation et metadata)* qui permettraient cette valorisation.**
 
 ### Les typologies d'utilsateurs
-explain activity 3
-show results and discuss etc etc
+Quelles données pour quelle catégorie d'utilisateurs ? Sous quels formats ?
+
+<p align="center">
+  <img src="users.PNG"/>
+</p>
 
 ---
-### Exec summary
+### Summary
 
 ##### first findings
 ##### first ideas and action plan shape
