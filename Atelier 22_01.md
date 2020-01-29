@@ -8,6 +8,10 @@ Ce premier atelier a eu lieu au sein de [BercyLab](https://www.economie.gouv.fr/
 
 Cet article retrace le déroulement de l'atelier et synthétise les différents échanges qui y ont eu lieu, ainsi que les premières actions qui en découlent.
 
+<p align="center">
+  <img src="groupe.jpg"/>
+</p>
+
 ### "Que vous inspire l'Open Data ?"
 Pour initialiser ce travail de co-construction de la démarche Open Data du ministère, un premier exercice *warm up* a permis d'identifier les grands sujets autour de l'Open Data selon les utilisateurs. 
 Les participants ont été séparés en deux groupes, et en quelques minutes de travail collaboratif, chaque groupe devait remplir le graphe ci-dessous avec des sujets que leur inspire l'Open Data, chaque mot devant avoir un lien avec le mot auquel il est relié. 
