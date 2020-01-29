@@ -11,7 +11,7 @@ Pour initialiser ce travail de co-construction de la démarche Open Data du mini
 Les participants ont été séparés en deux groupes, et en quelques minutes de travail collaboratif, chaque groupe devait remplir le graphe ci-dessous avec des sujets que leur inspire l'Open Data, chaque mot devant avoir un lien avec le mot auquel il est relié. 
 
 <p align="center">
-  <img src="warm_up_1.jpg"/>
+  <img src="warm_up_1.PNG"/>
 </p>
 
 Chaque groupe a ensuite effacé les mots centraux et essayé de reconstituer le graphe du groupe opposé à partir des mots restants. Hormis quelques différences, les deux groupes ont identifié les mêmes grandes thématiques autour de l'Open Data.
