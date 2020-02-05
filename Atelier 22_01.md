@@ -9,10 +9,7 @@ Ce premier atelier a eu lieu au sein de **Station C**, un espace conçu pour fav
 Cet article retrace le déroulement de l'atelier et synthétise les différents échanges qui y ont eu lieu, ainsi que les premières actions qui en découlent.
 
 <p align="center">
-  <figure>
   <img src="groupe.jpg" alt=""/>
-  <figcaption>Echanges entre les participants durant un des trois exercices réalisés</figcaption>
-  </figure>
 </p>
 
 ## "Que vous inspire l'Open Data ?"
