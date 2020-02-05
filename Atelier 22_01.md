@@ -10,8 +10,9 @@ Cet article retrace le déroulement de l'atelier et synthétise les différents 
 
 <p align="center">
   <figure>
-  <img src="groupe.jpg"/>
+  <img src="groupe.jpg" alt=""/>
   <figcaption>Echanges entre les participants durant un des trois exercices réalisés</figcaption>
+  </figure>
 </p>
 
 ## "Que vous inspire l'Open Data ?"
