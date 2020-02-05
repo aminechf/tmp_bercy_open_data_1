@@ -41,7 +41,7 @@ Pour répondre à cette question, une **liste de jeux de données des MEF** a é
   <img src="golden_data.png"/>
 </p>
 
-Cet exercice a permis d'aboutir aux constats suivants :
+Les constats suivants ont été réalisés à l'issue de cet exercice :
 * Certains jeux de données portent plus de valeur aux yeux des participants : les **données budget**, **les données fiscales**, **les données sur les dépenses et les achats de l'Etat**
 * La valorisation de ces jeux de données est possible **dés lors que les critères de qualité, d'utilisabilité et de documentation** sont respectés
 * L'intérêt d'un jeu de données seul n'est pas énorme. En revanche, **croisé avec d'autres jeux de données**, celui-ci prend son sens et **les données brutes deviennent des informations exploitables**. Ainsi, il est primordial de mettre en place **des référentiels permettant la jointure de plusieurs jeux de données** *(données pivots, conventions, documentation, etc. )*
@@ -53,7 +53,7 @@ Le dernier exercice de l'atelier consistait à identifier les jeux de données (
   <img src="users_sldies.PNG", style="height=70%;width=70%"/>
 </p>
 
-Cet exercice a permis d'aboutir aux constats suivants :
+Durant cet exercice, les participants ont soulevé les points suivants :
 * Absence **d'orientation éditoriale et d'événement** autour des données publiées. Cela rend l'accès à ces informations difficile, principalement pour les "citoyens curieux" ou des utilisateurs type "Data Journalist". La publication des données avec davantage de **pédagogie** contribuerait significativement à une prise de conscience citoyenne sur le rôle de l'Open Data dans le renforcement des liens de transparence et de confiance Etat-Citoyens
 * Les Power Users souhaitent avoir accès à des **données brutes, régulièrement mises à jour et avec une granularité suffisemment fine** pour pouvoir les exploiter et en tirer de la valeur
 * Ce format ne correspond cependant pas aux attentes des autres utilisateurs. Les Power Users peuvent ainsi apporter un complément aux données fournies par l'administration. En effet, fournir des données qui respectent les critères d'utilisabilité cités précédemment permettra aux Power Users de générer de la valeur grâce à des traitements avancés (Big Data, IA), mais aussi de construire des jeux de données agrégés et des rapports informatifs à destination du grand public
