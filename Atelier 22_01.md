@@ -4,7 +4,7 @@
 ## Introduction
 Après de premières initiatives Open Data, dont la publication de données sur le portail [data.gouv.fr](https://data.gouv.fr) et la mise en place d'un portail dédié aux MEF [data.economie.gouv.fr](https://data.economie.gouv.fr), le Secrétariat Général des Ministères Economiques et Financiers a souhaité **mobiliser et échanger avec les utilisateurs finaux** des données ouvertes. Cette action reflète la volonté des ministères de mieux répondre aux besoins des utilisateurs et ainsi renforcer les liens de confiance et de transparence avec eux et leur donner les moyens d'innover et de générer un impact économique avec les données ouvertes. 
 
-Ce premier atelier a eu lieu au sein de **Station C**, un espace conçu pour favoriser la créativité et le travail collaboratif, et a permis de comprendre ce que représente l'Open Data pour les utilisateurs, d'identifier les données des Ministères considérées comme étant des *Golden Data* et de caractériser les différentes typologies des utilisateurs des données ouvertes. Les échanges qui ont eu lieu au cours de cet atelier ont également permis d'identifier les freins rencontrés par les utilisateurs aujourd'hui, et des premiers axes de travail pour y remédier.
+Ce premier atelier a eu lieu au sein de **Station C**, un espace conçu pour favoriser la créativité et le travail collaboratif, et a permis de comprendre ce que représente l'Open Data pour les utilisateurs, d'identifier les données des Ministères considérées comme étant des *Golden Data* et de caractériser les différentes typologies des utilisateurs des données ouvertes. Les échanges qui ont eu lieu au cours de cet atelier ont également permis d'identifier les freins rencontrés par les utilisateurs aujourd'hui, et des premiers axes de travail pour y remédier. 
 
 Cet article retrace le déroulement de l'atelier et synthétise les différents échanges qui y ont eu lieu, ainsi que les premières actions qui en découlent.
 
@@ -60,6 +60,4 @@ Durant cet exercice, les participants ont soulevé les points suivants :
 
 ***
 
-
-
-
+Ce premier atelier, riche en échanges et en enseignements, est un premier pas vers l'implémentation d'une stratégie Open Data des Ministères Economiques et Financiers, qui place les utilisateurs finaux (internes et externes) au centre des réflexions et des actions. L'enthousiasme des participants, nombreux à avoir répondu à l'invitation, reflète leur engagement au côté des MEF et leur volonté de mutualiser les efforts afin de mettre à disposition tous les moyens permettant une valorisation à l'echelle des données des ministères. Ce premier atelier a ainsi permis d'identifier plusieurs axes de travail majeurs et des actions qui seront réalisées dans les prochaines semaines. **Rendez-vous en avril pour un bilan de cette première phase et pour le deuxième atelier !**
