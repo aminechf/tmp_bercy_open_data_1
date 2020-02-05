@@ -9,7 +9,7 @@ Ce premier atelier a eu lieu au sein de **Station C**, un espace conçu pour fav
 Cet article retrace le déroulement de l'atelier et synthétise les différents échanges qui y ont eu lieu, ainsi que les premières actions qui en découlent.
 
 <p align="center">
-  <img src="groupe.jpg" alt=""/>
+  <img src="participants.png" alt=""/>
 </p>
 
 ## "Que vous inspire l'Open Data ?"
@@ -23,11 +23,7 @@ Les participants ont été séparés en deux groupes, et en quelques minutes de 
 Chaque groupe a ensuite effacé les mots centraux et essayé de reconstituer le graphe du groupe opposé à partir des mots restants. Hormis quelques différences, les deux groupes ont identifié les mêmes grandes thématiques autour de l'Open Data.
 
 <p align="center">
-  <img src="warm_up_2.jpg"/>
-</p>
-
-<p align="center">
-  <img src="warm_up_3.jpg"/>
+  <img src="warm_up.png"/>
 </p>
 
 Cet exercice a permis de mettre en avant plusieurs sujets centraux autour de l'Open Data, identifiés par les deux groupes : 
@@ -42,7 +38,7 @@ Ces sujets reflètent une réelle volonté des participants d'explorer et d'extr
 Pour répondre à cette question, une **liste de jeux de données des MEF** a été présentée aux participants. Les participants ont travaillé en groupe pour compléter la liste avec des données incarnant l'image des MEF, puis pour désigner des jeux de données emblématiques (qu'on appelle ici *Golden Data*), chaque groupe ayant un nombre limité de votes à répartir sur les différents jeux de données. 
 
 <p align="center">
-  <img src="golden_data_2.jpg"/>
+  <img src="golden_data.png"/>
 </p>
 
 Cet exercice a permis d'aboutir aux constats suivants :
@@ -54,7 +50,7 @@ Cet exercice a permis d'aboutir aux constats suivants :
 Le dernier exercice de l'atelier consistait à identifier les jeux de données (parmi les *Golden Data*) qui intéresseraient le plus chaque typologie d'utilisateurs. Pour cela, trois profils d'utilisateur type ont été proposés aux participants.
 
 <p align="center">
-  <img src="users.PNG", style="height=70%;width=70%"/>
+  <img src="users_sldies.PNG", style="height=70%;width=70%"/>
 </p>
 
 Cet exercice a permis d'aboutir aux constats suivants :
