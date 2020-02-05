@@ -47,7 +47,7 @@ Pour répondre à cette question, une **liste de jeux de données des MEF** a é
 
 Cet exercice a permis d'aboutir aux constats suivants :
 * Certains jeux de données portent plus de valeur aux yeux des participants : les **données budget**, **les données fiscales**, **les données sur les dépenses et les achats de l'Etat**
-* La valorisation de ces jeux de données est possible **dés lors que les critères de qualité, d'utilisabilité et de documentation** sont respectés **
+* La valorisation de ces jeux de données est possible **dés lors que les critères de qualité, d'utilisabilité et de documentation** sont respectés
 * L'intérêt d'un jeu de données seul n'est pas énorme. En revanche, **croisé avec d'autres jeux de données**, celui-ci prend son sens et **les données brutes deviennent des informations exploitables**. Ainsi, il est primordial de mettre en place **des référentiels permettant la jointure de plusieurs jeux de données** *(données pivots, conventions, documentation, etc. )*
 
 ### Les typologies d'utilsateurs
