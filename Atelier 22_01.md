@@ -2,7 +2,9 @@
 *Le mercredi 22 janvier 2020, le **[Secrétariat Général des Ministères Economiques et Financiers](https://www.economie.gouv.fr/vous-orienter/organigramme/secretariat-general-des-ministeres-economiques-et-financiers-sg)** a organisé un **atelier de réflexion et d'idéation** sur les **démarches Open Data** des ministères et les **impacts** associés. Une quinzaine d'utilisateurs finaux et d'acteurs de l'écosystème Open Data ont répondu présents à l'invitation.*
 ***
 ## Introduction
----
+
+***
+
 Après de premières initiatives Open Data, dont la publication de données sur le portail [data.gouv.fr](https://data.gouv.fr) et la mise en place d'un portail dédié aux MEF [data.economie.gouv.fr](https://data.economie.gouv.fr), le Secrétariat Général des Ministères Economiques et Financiers a souhaité **mobiliser et échanger avec les utilisateurs finaux** des données ouvertes. Cette action reflète la volonté des ministères de mieux répondre aux besoins des utilisateurs et ainsi renforcer les liens de confiance et de transparence avec eux et leur donner les moyens d'innover et de générer un impact économique avec les données ouvertes. 
 
 Ce premier atelier a eu lieu au sein de **Station C**, un espace conçu pour favoriser la créativité et le travail collaboratif, et a permis de comprendre ce que représente l'Open Data pour les utilisateurs, d'identifier les données des Ministères considérées comme étant des *Golden Data* et de caractériser les différentes typologies des utilisateurs des données ouvertes. Les échanges qui ont eu lieu au cours de cet atelier ont également permis d'identifier les freins rencontrés par les utilisateurs aujourd'hui, et des premiers axes de travail pour y remédier.
